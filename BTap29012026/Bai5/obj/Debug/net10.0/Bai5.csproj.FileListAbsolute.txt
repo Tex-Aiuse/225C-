@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\BTap29012026\Bai5\bin\Debug\net10.0\Bai5.exe
+C:\Users\ACER\source\repos\BTap29012026\Bai5\bin\Debug\net10.0\Bai5.deps.json
+C:\Users\ACER\source\repos\BTap29012026\Bai5\bin\Debug\net10.0\Bai5.runtimeconfig.json
+C:\Users\ACER\source\repos\BTap29012026\Bai5\bin\Debug\net10.0\Bai5.dll
+C:\Users\ACER\source\repos\BTap29012026\Bai5\bin\Debug\net10.0\Bai5.pdb
+C:\Users\ACER\source\repos\BTap29012026\Bai5\obj\Debug\net10.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\BTap29012026\Bai5\obj\Debug\net10.0\Bai5.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\BTap29012026\Bai5\obj\Debug\net10.0\Bai5.AssemblyInfo.cs
+C:\Users\ACER\source\repos\BTap29012026\Bai5\obj\Debug\net10.0\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\BTap29012026\Bai5\obj\Debug\net10.0\Bai5.dll
+C:\Users\ACER\source\repos\BTap29012026\Bai5\obj\Debug\net10.0\refint\Bai5.dll
+C:\Users\ACER\source\repos\BTap29012026\Bai5\obj\Debug\net10.0\Bai5.pdb
+C:\Users\ACER\source\repos\BTap29012026\Bai5\obj\Debug\net10.0\Bai5.genruntimeconfig.cache
+C:\Users\ACER\source\repos\BTap29012026\Bai5\obj\Debug\net10.0\ref\Bai5.dll

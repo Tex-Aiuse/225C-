@@ -1,0 +1,11 @@
+<Solution>
+  <Project Path="Bai1/Bai1.csproj" Id="7f3209c7-a1ee-4dfe-953f-27a5c39521aa" />
+  <Project Path="Bai2/Bai2.csproj" Id="bb3d2282-ce7b-4d24-8b1a-60972987d57b" />
+  <Project Path="Bai3/Bai3.csproj" Id="55f67b45-a024-4adf-be5d-0ad78a8e9465" />
+  <Project Path="Bai4/Bai4.csproj" Id="22a9730a-21c5-41e7-a20b-093ac1cc5575" />
+  <Project Path="Bai5/Bai5.csproj" Id="9f670439-83c0-46ff-8ddd-2b29c5751d04" />
+  <Project Path="Bai6/Bai6.csproj" Id="739f222c-30ce-4694-a1dc-245d12f1c792" />
+  <Project Path="Bai7/Bai7.csproj" Id="c8c7f8bf-43b9-4249-87cf-11f96325c16f" />
+  <Project Path="Bai8/Bai8.csproj" Id="f41ab4a9-04c5-4b9b-9bbd-43e14fa34a62" />
+  <Project Path="Bai9/Bai9.csproj" Id="a9c21728-31e8-4fd4-9a7d-09eb0f06ab1b" />
+</Solution>
